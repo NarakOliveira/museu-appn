@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">museu-feed</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="home_icon_description">Voltar para home</string>
+    <string name="search_hint">Pesquisar obra\n</string>
+    <string name="add_work">Adicionar obra</string>
+    <string name="back_button">Voltar</string>
+    <string name="screen_title">Obras Cadastradas</string>
+    <string name="nome_do_autor">Nome do autor</string>
+    <string name="nome_da_obra">Nome da obra</string>
+    <string name="adicionar_url">Adicionar URL</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="feed_de_interpreta_es">Feed de interpretações</string>
+    <string name="obra">Obra:</string>
+    <string name="comentar">Comentar</string>
+    <string name="insira_sua_interpreta_o">Insira sua interpretação</string>
+    <string name="comente_aqui">Comente aqui:</string>
+    <string name="enviar">Enviar</string>
+    <string name="caracteres_0_100">caracteres: 0/100</string>
+    <string name="return_button">return button</string>
+    <string name="align_the_qr_code_within_the_frame_to_scan">Align the QR code within the frame to scan</string>
+    <string name="username">Username</string>
+    <string name="interpretation_text_goes_here">Interpretation text goes here.</string>
+    <string name="datetime">DateTime</string>
+</resources>
